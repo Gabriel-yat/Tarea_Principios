@@ -1,0 +1,7 @@
+C:\Users\marvi\OneDrive\Escritorio\TareaPrincipios\bin\Debug\TareaPrincipios.exe.config
+C:\Users\marvi\OneDrive\Escritorio\TareaPrincipios\bin\Debug\TareaPrincipios.exe
+C:\Users\marvi\OneDrive\Escritorio\TareaPrincipios\bin\Debug\TareaPrincipios.pdb
+C:\Users\marvi\OneDrive\Escritorio\TareaPrincipios\obj\Debug\TareaPrincipios.csproj.AssemblyReference.cache
+C:\Users\marvi\OneDrive\Escritorio\TareaPrincipios\obj\Debug\TareaPrincipios.csproj.CoreCompileInputs.cache
+C:\Users\marvi\OneDrive\Escritorio\TareaPrincipios\obj\Debug\TareaPrincipios.exe
+C:\Users\marvi\OneDrive\Escritorio\TareaPrincipios\obj\Debug\TareaPrincipios.pdb
